@@ -1,3 +1,63 @@
 body {
   font-family: "Roboto", sans-serif;
 }
+
+.text-example1,
+.text-example2,
+.text-example3 {
+  font-size: 20px;
+}
+
+.text-example1 {
+  color: orangered;
+  font-weight: 300;
+}
+
+.text-example2 {
+  color: blue;
+  font-weight: 500;
+}
+
+.text-example3 {
+  color: green;
+  font-weight: 700;
+}
+
+.text-example4,
+.text-example5 {
+  font-family: "Dancing Script", cursive;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.list-element {
+  display: inline-block;
+  list-style: none;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+.active {
+  color: blue;
+}
+
+.simple-sqare1,
+.simple-sqare2,
+.simple-sqare3 {
+  width: 100px;
+  height: 100px;
+  margin-right: 5px;
+  display: inline-block;
+}
+
+.simple-sqare1 {
+  background-color: blue;
+}
+
+.simple-sqare2 {
+  background-color: green;
+}
+
+.simple-sqare3 {
+  background-color: yellow;
+}
